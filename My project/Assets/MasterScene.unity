@@ -280,6 +280,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 788467505012521225, guid: 92ad73069b920a14f9e65f1ddcc90ae0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1264113825069654440, guid: 92ad73069b920a14f9e65f1ddcc90ae0,
         type: 3}
       propertyPath: m_Text
@@ -349,6 +354,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ScaneSystem
+      objectReference: {fileID: 0}
+    - target: {fileID: 1540157686840197209, guid: 92ad73069b920a14f9e65f1ddcc90ae0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92ad73069b920a14f9e65f1ddcc90ae0, type: 3}
